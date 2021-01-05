@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
+.loader{
+	margin:200px auto;
+}
+.load{
+	font-family: 'Bungee Outline', cursive;
+	columns: #000000;;
+	font-size:16px;
+	letter-spacing:1px;
+	font-weight:200;
+    text-align:center;
+    font-size: 200px;
+}
